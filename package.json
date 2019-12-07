@@ -1,0 +1,26 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "javascript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mafideju/DesignPatternsJavaScript.git"
+  },
+  "keywords": [
+    "solid",
+    "gog",
+    "gang-of-four",
+    "design",
+    "patterns"
+  ],
+  "author": "Marcio Mafideju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mafideju/DesignPatternsJavaScript/issues"
+  },
+  "homepage": "https://github.com/mafideju/DesignPatternsJavaScript#readme"
+}
